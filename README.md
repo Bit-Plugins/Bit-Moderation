@@ -1,8 +1,8 @@
-# Jupiter
+# Bit: Moderation
 A moderation plugin for bit
 
 ## Supported Bit Versions
-Bit 5.2.x
+Bit 2025.1
 
 ## Setup instructions
 1 - Download and setup [Bit](https://lockyzmedia.com/bots/bit/)
