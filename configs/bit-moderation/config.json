@@ -1,0 +1,20 @@
+{
+    "embedColours": {
+		"positive": "#00FF1C",
+		"negative": "#FF0000",
+		"neutral": "#9013FE",
+		"main": "#86C1FD",
+		"secondary": "#50E3C2"
+	},
+    "guildid": {
+        "logging": "",
+        "roles": {
+            "roleid": {
+                "exemptions": {
+                    "invite_detection": false
+                }
+            }
+        },
+        "invite_detection": true
+    }
+}
